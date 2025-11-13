@@ -1,14 +1,12 @@
-import './globals.css';
-
 export const metadata = {
-  title: 'Blockchain Assignment - DApp',
+  title: 'GetSet Contract - DApp',
   description: 'Interact with GetSet smart contract',
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className="antialiased">{children}</body>
+      <body style={{ margin: 0, padding: 0, fontFamily: 'Arial, sans-serif' }}>{children}</body>
     </html>
   );
 }
