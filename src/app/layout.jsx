@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'GetSet Contract - DApp',
+  title: 'Blockchain Assignment - DApp',
   description: 'Interact with GetSet smart contract',
 };
 
